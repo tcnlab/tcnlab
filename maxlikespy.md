@@ -5,7 +5,7 @@ Parameter fitting is performed using SciPy's implementation of basinhopping - a 
 
 ## Getting Started
 
-pip install maxlikespy
+clone this repository and install via pip
 
 ### Prerequisites
 ```

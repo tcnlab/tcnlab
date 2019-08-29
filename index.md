@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TCN Lab Projects
-tagline: test!
+tagline: 
 description: A site to collect TCN Lab projects for sharing
 ---
 
